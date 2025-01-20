@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Nikolai
+
 
 
 My achievements:
-![photo_5197217273964784104_y](https://github.com/user-attachments/assets/3d473afd-bf2b-4958-b889-d227d17eac1f)
+
+<img src="https://storage.yandexcloud.net/preview/photo_5197217273964784104_y.jpg" alt="Образец изображения" width="400" height ="300">
