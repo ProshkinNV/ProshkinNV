@@ -4,9 +4,13 @@
 ## ML \ DL - инженер
 
 Я изучаю нейросети с 2023 года и прохожу курсы профессиональной переподготовки в академии нейросетей [The Founder](https://academy.the-founder.ru/)
+
+
 Мои контакты:
-[Telegram](https://t.me/Nikolai0000011)
-[ProshkinNV@yandex.ru](mailto:ProshkinNV@yandex.ru)
+
+
+* [Telegram](https://t.me/Nikolai0000011)
+* [ProshkinNV@yandex.ru](mailto:ProshkinNV@yandex.ru)
 
 
 **Ключевые компетенции:**
